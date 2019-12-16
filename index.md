@@ -4,10 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Media Queries</title>
-    <link rel="stylesheet" href="HojaEstilos3.css">
+    <title>Media Queries 2</title>
+    <link rel="stylesheet" href="HojaEstilo4.css">
 </head>
 <body>
-        <h1>Ejemplo 1: Cuando el ancho se mayor que 600px el color de fondo será verde.</h1>
+    <h2>Menú responsive</h2> 
+
+    <p>Si el ancho de la ventana del navegador es inferior a 600px, el menú se visualizará verticalmente.</p> 
+
+ 
+
+    <div class="menusuperior"> 
+
+        <a href="#">Elemento 1</a> 
+
+        <a href="#">Elemento 2</a> 
+
+        <a href="#">Elemento 3</a> 
+
+    </div> 
+    
 </body>
 </html>
